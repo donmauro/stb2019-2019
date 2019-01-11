@@ -62,3 +62,26 @@ ol.roman {
 ol.none {
   list-style-type: none;
 }
+
+div.doppiacolonna
+    {
+    width:100%;
+}
+div.destra {
+    width: 45%;
+    float: right;
+    text-indent: 1.5em;
+    font-size: 0.85em;
+    text-align: justify;
+}
+div.sinistra {
+    width: 45%;
+    float: left;
+    font-size: 0.85em;
+    text-indent: 1.5em;
+    text-align: justify;
+}
+table {
+  border-width: 0;
+  border-style: none;
+}
