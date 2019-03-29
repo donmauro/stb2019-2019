@@ -22,6 +22,7 @@
   <item id="chapter_001" href="chapter_001.xhtml"  media-type="application/xhtml+xml"/>
   <item id="chapter_002" href="chapter_002.xhtml"  media-type="application/xhtml+xml"/>
   <item id="chapter_003" href="chapter_003.xhtml"  media-type="application/xhtml+xml"/>
+  <item id="chapter_004" href="chapter_004.xhtml"  media-type="application/xhtml+xml"/>
 </manifest>
 
 <spine>
@@ -29,6 +30,7 @@
   <itemref idref="chapter_001"></itemref>
   <itemref idref="chapter_002"></itemref>
   <itemref idref="chapter_003"></itemref>
+  <itemref idref="chapter_004"></itemref>
 </spine>
   
 </package>
