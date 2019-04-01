@@ -52,6 +52,11 @@ img {
 .center {
   text-align: center;
 }
+.col-center-left {
+  margin-left: 30%;
+  text-align: left;
+}
+
 .center-slim {
   font-size: 0.9em;
   margin-left: 2em;
